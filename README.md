@@ -10,7 +10,7 @@ More to follow!
 
 # 🎯 Goals
 
-* Gain Salesforce Administrator and Platform App Builder proficiency
+* Gain Salesforce Administrator, Platform App Builder, and Developer proficiency
 * Build hands-on experience with org configuration, automation, and data flows
 * Complete official Salesforce certifications
 * Share progress, notes, and mini-projects for others learning the same path
