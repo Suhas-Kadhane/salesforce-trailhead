@@ -22,7 +22,7 @@ This repository documents my **Salesforce learning journey** — from Trailhead 
 | Week 1 | [Admin Basics](https://trailhead.salesforce.com/en/users/00550000006yDdKAAU/trailmixes/prepare-for-your-salesforce-administrator-credential) | Salesforce Platform Basics, Data Modeling, User Management | 🔄 In Progress |
 | Week 2 | [Automation](https://trailhead.salesforce.com/content/learn/trails/automate_business_processes) | Flow Builder, Process Automation, Validation Rules | ⏳ Planned |
 | Week 3 | [Development](https://trailhead.salesforce.com/content/learn/trails/force_com_dev_beginner) | Apex Basics, Lightning Web Components, SOQL | ⏳ Planned |
-| Week 4 | [Projects + Revision](https://trailhead.salesforce.com/content/learn/trails/prepare-for-your-salesforce-platform-app-builder-credential) | Practice projects, Org setup, Reports & Dashboards | ⏳ Planned |
+| Week 4 | [Projects + Revision](https://trailhead.salesforce.com/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-app-builder-credential) | Practice projects, Org setup, Reports & Dashboards | ⏳ Planned |
 
 ---
 
