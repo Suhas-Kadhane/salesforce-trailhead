@@ -28,9 +28,9 @@ This repository documents my **Salesforce learning journey** — from Trailhead 
 
 ## 🧩 Key Badges & Superbadges
 - [ ] [Admin Beginner](https://trailhead.salesforce.com/en/users/00550000006yDdKAAU/trailmixes/prepare-for-your-salesforce-administrator-credential)  
-- [ ] [Business Administration Specialist (Superbadge)](https://trailhead.salesforce.com/content/learn/superbadges/superbadge_business_specialist)  
+- [ ] [Business Administration Specialist (Superbadge)](https://trailhead.salesforce.com/users/jimsharp/trailmixes/take-the-business-administration-specialist-superbadge)  
 - [ ] [Flow Automation](https://trailhead.salesforce.com/content/learn/trails/automate_business_processes)  
-- [ ] [Apex Specialist (Superbadge)](https://trailhead.salesforce.com/content/learn/superbadges/superbadge_apex)  
+- [ ] [Apex Specialist (Superbadge)](https://trailhead.salesforce.com/users/lthomas/trailmixes/apex-specialist-superbadge)  
 - [ ] [Lightning Experience Customization](https://trailhead.salesforce.com/content/learn/modules/lex_customization)  
 
 ---
@@ -43,7 +43,7 @@ This repository documents my **Salesforce learning journey** — from Trailhead 
 | Custom Object App | Built an Expense Tracker with custom objects, relationships, and reports | Coming Soon |
 | SOQL Challenge | Querying Salesforce data using SOQL in Developer Console | Coming Soon |
 
-> 💡 Tip: Use [Salesforce Trailhead Playgrounds](https://trailhead.salesforce.com/content/learn/trails/getting_started_with_the_salesforce_platform/modules/starting_learners_trailhead_playground) to practice hands-on challenges.
+> 💡 Tip: Use [Salesforce Trailhead Playgrounds](https://trailhead.salesforce.com/content/learn/modules/trailhead_playground_management/create-a-trailhead-playground) to practice hands-on challenges.
 
 ---
 
@@ -76,7 +76,7 @@ Example:
 - [Apex Developer Beginner Trail](https://trailhead.salesforce.com/content/learn/trails/force_com_dev_beginner)  
 - [Lightning Web Components Basics](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-basics)  
 - [Flow Automation Trail](https://trailhead.salesforce.com/content/learn/trails/automate_business_processes)  
-- [Trailhead Playgrounds](https://trailhead.salesforce.com/content/learn/trails/getting_started_with_the_salesforce_platform/modules/starting_learners_trailhead_playground)  
+- [Trailhead Playgrounds](https://trailhead.salesforce.com/content/learn/modules/trailhead_playground_management/create-a-trailhead-playground)  
 - [SalesforceBen (Articles & Tips)](https://www.salesforceben.com)  
 - [SFDC99 (Developer Tutorials)](https://www.sfdc99.com)  
 
@@ -96,5 +96,5 @@ Week 1:
 If you’re also on a Salesforce learning journey — feel free to connect or collaborate!
 
 📧 suhasbuilds@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🐦 [Twitter](https://twitter.com/your-handle)
+💼 [LinkedIn](https://www.linkedin.com/in/suhas-kadhane)  
+🐦 [Twitter](https://twitter.com/thatcosmicnomad)
