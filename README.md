@@ -1,9 +1,9 @@
-# 🚀 Salesforce Developer & Trailhead Journey
+# 🚀 Salesforce Ecosystem Journey: Admin, Developer, and Beyond
 
 Hi there! 👋  
-This repository documents my **Salesforce learning journey** — from Trailhead modules to hands-on projects and practice org experiments.  
+This repository documents my **Salesforce learning journey**, covering everything from Trailhead modules to hands-on projects and practice org experiments.  
 
-With over 5 years of experience as a Salesforce User and Admin, my goal is to build a strong foundation across the **Salesforce ecosystem** — covering **Administration, Development, Data Management, Analytics, and Integrations** — and transition into a full-time **Salesforce professional**.  
+With over 5 years of experience as a **Salesforce User and Admin**, I am expanding my skills across **Salesforce Administration, Development, Data Management, Analytics, and Integrations** to build a well-rounded understanding of the Salesforce ecosystem and transition into a full-time **Salesforce professional**.  
 
 > 💡 *Learning Salesforce, one badge at a time.*
 
